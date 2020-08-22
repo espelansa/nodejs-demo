@@ -1,0 +1,22 @@
+{
+  "name": "nodejs-geektime-demo",
+  "version": "1.0.0",
+  "description": "## Node.js版Geektime ### 列表页 - 打通前后台 - 服务端渲染 ### 详情页 - 网页路由 - 异步加载 ### 播放页 - API服务器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/espelansa/nodejs-geektime-demo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/espelansa/nodejs-geektime-demo/issues"
+  },
+  "homepage": "https://github.com/espelansa/nodejs-geektime-demo#readme",
+  "dependencies": {
+    "glob": "^7.1.6"
+  }
+}
