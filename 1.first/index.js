@@ -1,4 +1,18 @@
+console.log('Hello World');
+
+console.log(Date);
+console.log(Math);
+
+console.log(setTimeout);
+console.log(setInterval);
+
+console.log(__filename); // 文件名
+console.log(__dirname); // 路径
+// process 进程对象
+
+
 // 石头剪刀布游戏
+// 执行命令 node index.js XXXX(rock/scissor/paper)
 
 let playerAction = process.argv[process.argv.length - 1];
 console.log(playerAction)

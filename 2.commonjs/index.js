@@ -3,6 +3,7 @@ const game = require('./lib')
 
 let count = 0;
 
+// 保持进程长期存在
 process.stdin.on('data', e => {
 	const playerAction = e.toString().trim()
 	const result = game(playerAction)
