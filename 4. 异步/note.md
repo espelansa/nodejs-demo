@@ -21,4 +21,20 @@
   - error-first callback
   - Node-style callback
 - 第一个参数是error, 后面的参数才是结果
-- npm: async callback一个比较严重的问题是异步流程控制
+- npm: async （已过时）
+- thunk （已过时）
+
+
+## Promise
+- 当前事件循环中得不到的结果，会在未来的事件循环中给到你结果
+- 是一个状态机
+  - pending
+  - fulfilled/resolved
+  - rejected
+- resolved状态的Promise会回调后面的第一个.then
+- rejected状态的Promise会回调后面的第一个.catch
+- 任何一个rejected状态且后面没有.catch的Promise，都会造成浏览器/node环境的全局错误
+- 执行then和catch会返回一个新Promise，该Promise最终状态根据then和catch的回调函数的执行结果来决定
+  - 回调函数结果是throw, 该Promise是rejected状态
+  - 回调函数结果是return，该Promise是resolved状态
+

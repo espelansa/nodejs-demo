@@ -104,6 +104,3 @@
 //   console.log('smile')
 //   count++;
 // });
-
-// 5. async.js解决异步并发控制问题
-
