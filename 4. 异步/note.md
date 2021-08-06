@@ -38,3 +38,11 @@
   - 回调函数结果是throw, 该Promise是rejected状态
   - 回调函数结果是return，该Promise是resolved状态
 
+
+## async/await
+- async function 是 Promise 的语法糖封装
+- 异步编程的终极解决方案：用同步的方式写异步
+  - await 可以暂停async function的执行
+  - await 可以以同步的写法获取Promise的结果
+  - try/catch 可以获取await所得到的错误
+- 一个穿越事件循环的function
