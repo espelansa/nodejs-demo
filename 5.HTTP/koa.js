@@ -1,7 +1,4 @@
-const http = require('http');
 const fs = require('fs');
-const url = require('url');
-const querystring = require('querystring');
 const game = require('./game');
 const koa = require('koa');
 const mount = require('koa-mount')
@@ -35,7 +32,7 @@ gameKoa.use(
 
     await next();
 
-    if (ctx.playerWon) {
+    if (ctx.playWon) {
       playWon += 1;
     }
   }
@@ -89,9 +86,12 @@ gameKoa.use(
           ctx.body = '你输了';
         } else {
           ctx.body = '你赢了';
+          ctx.playWon = true;
         }
+
+        resolve();
       })
-    })
+    }, 500)
   }
 )
 
@@ -103,3 +103,12 @@ app.use(
 
 app.listen(3000);
 
+/**
+ * koa核心功能
+ * - 比express更极致的request/response简化
+ * - 使用async function实现的中间件
+ *  - 有暂停执行的能力
+ *  - 在异步的情况下也符合洋葱模型
+ * 
+ * express更适合小型应用，koa更适合大型应用
+ */
