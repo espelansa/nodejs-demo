@@ -18,5 +18,3 @@ Backend for Frontend
 - 使用后端RPC服务
 
 
-## CommonJS模块规范
-webpack --devtool none --mode development --target node index.js

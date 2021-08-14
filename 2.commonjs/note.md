@@ -7,3 +7,5 @@
 - JavaScript社区发起，在Node.js上应用并推广
 - 后续也影响到了浏览器端JavaScript
 
+---
+webpack --devtool none --mode development --target node index.js
