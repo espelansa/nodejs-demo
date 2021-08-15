@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/espelansa/nodejs-geektime-demo#readme",
   "dependencies": {
-    "glob": "^7.1.6"
+    "glob": "^7.1.6",
+    "koa": "^2.13.1",
+    "koa-mount": "^4.0.0"
   }
 }
