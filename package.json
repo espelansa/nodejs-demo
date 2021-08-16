@@ -4,7 +4,7 @@
   "description": "## Node.js版Geektime ### 列表页 - 打通前后台 - 服务端渲染 ### 详情页 - 网页路由 - 异步加载 ### 播放页 - API服务器",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -17,8 +17,17 @@
   },
   "homepage": "https://github.com/espelansa/nodejs-geektime-demo#readme",
   "dependencies": {
+    "easy_sock": "^0.4.1",
     "glob": "^7.1.6",
     "koa": "^2.13.1",
-    "koa-mount": "^4.0.0"
+    "koa-ejs": "^4.3.0",
+    "koa-json": "^2.0.2",
+    "koa-mount": "^4.0.0",
+    "koa-router": "^10.0.0",
+    "koa-static": "^5.0.0",
+    "protocol-buffers": "^4.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.12"
   }
 }
