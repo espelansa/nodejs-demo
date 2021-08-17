@@ -1,20 +1,7 @@
-# nodejs-geektime-demo
+# nodejs-demo
 
-## Node.js版Geektime
-### 列表页
-- 打通前后台
-- 服务端渲染
-### 详情页
-- 网页路由
-- 异步加载
-### 播放页
-- API服务器
-
-
-## BFF层
-Backend for Frontend
-### 主要职责
-- 对用户侧提供HTTP服务
-- 使用后端RPC服务
+## 项目内容
+- geektime 《Node.js开发实战》 学习笔记（目前进行到L30）
+- Koa.js Crash Course(produced by youtuber Traversy Media) 学习笔记
 
 
