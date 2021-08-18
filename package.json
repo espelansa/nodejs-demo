@@ -1,10 +1,12 @@
 {
-  "name": "nodejs-geektime-demo",
+  "name": "nodejs-demo",
   "version": "1.0.0",
-  "description": "## Node.js版Geektime ### 列表页 - 打通前后台 - 服务端渲染 ### 详情页 - 网页路由 - 异步加载 ### 播放页 - API服务器",
-  "main": "index.js",
+  "description": "Simple codes when learning nodejs",
+  "main": "app.js",
   "scripts": {
-    "koa": "nodemon koa.js"
+    "koa": "nodemon koa.js",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +19,10 @@
   },
   "homepage": "https://github.com/espelansa/nodejs-geektime-demo#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
     "easy_sock": "^0.4.1",
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.3",
     "glob": "^7.1.6",
     "koa": "^2.13.1",
     "koa-bodyparser": "^4.3.0",
@@ -26,7 +31,9 @@
     "koa-mount": "^4.0.0",
     "koa-router": "^10.0.0",
     "koa-static": "^5.0.0",
-    "protocol-buffers": "^4.2.0"
+    "mysql2": "^2.3.0",
+    "protocol-buffers": "^4.2.0",
+    "sequelize": "^6.6.5"
   },
   "devDependencies": {
     "nodemon": "^2.0.12"
