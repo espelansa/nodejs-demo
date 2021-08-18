@@ -18,7 +18,7 @@ const app = express();
 app.get('/', (req, res) => res.send('INDEX'))
 
 // Gig routes
-
+app.use('/gigs', require('./routes/gigs'))
 
 
 
