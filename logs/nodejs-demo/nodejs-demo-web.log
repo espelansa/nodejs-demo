@@ -1,0 +1,15 @@
+2021-08-19 23:04:09,608 ERROR 16062 [-/127.0.0.1/-/4ms GET /] nodejs.Error: Please set config.keys first
+    at Application.get keys [as keys] (/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/lib/application.js:266:15)
+    at Object.get cookies [as cookies] (/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/app/extend/context.js:22:66)
+    at Object.get [egg-security#CSRF_SECRET] (/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/app/extend/context.js:91:35)
+    at Object.ensureCsrfSecret (/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/app/extend/context.js:104:13)
+    at csrf (/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/lib/middlewares/csrf.js:15:11)
+    at dispatch (/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/koa-compose/index.js:42:32)
+    at /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/koa-compose/index.js:34:12
+    at dispatch (/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/koa-compose/index.js:42:32)
+    at session (/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/koa-session/index.js:41:13)
+    at dispatch (/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/koa-compose/index.js:42:32)
+
+pid: 16062
+hostname: maoyiweideMacBook-Air.local
+

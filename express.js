@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 const path = require('path');
 
 // Database
-const database = require('./config/database')
+const database = require('./config/expressDB')
 
 // Test Database Connection
 database.authenticate()

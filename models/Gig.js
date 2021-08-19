@@ -1,5 +1,5 @@
 const Sequelize = require('sequelize');
-const database = require('../config/database');
+const database = require('../config/expressDB');
 
 const Gig = database.define('gigs', {
   title: {

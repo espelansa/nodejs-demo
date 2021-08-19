@@ -1,0 +1,56 @@
+2021-08-19 23:03:46,445 INFO 16062 [egg:logger] init all loggers with options: {"dir":"/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/logs/nodejs-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nodejs-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-19 23:03:46,464 INFO 16062 [egg-multipart] stream mode enable
+2021-08-19 23:03:46,535 INFO 16062 [egg-static] starting static serve /public/ -> /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/app/public
+2021-08-19 23:03:46,537 INFO 16062 [egg-security] use csrf middleware
+2021-08-19 23:03:46,538 INFO 16062 [egg-security] use methodnoallow middleware
+2021-08-19 23:03:46,539 INFO 16062 [egg-security] use noopen middleware
+2021-08-19 23:03:46,540 INFO 16062 [egg-security] use nosniff middleware
+2021-08-19 23:03:46,541 INFO 16062 [egg-security] use xssProtection middleware
+2021-08-19 23:03:46,541 INFO 16062 [egg-security] use xframe middleware
+2021-08-19 23:03:46,542 INFO 16062 [egg-security] use dta middleware
+2021-08-19 23:03:46,542 INFO 16062 [egg-security] compose 7 middlewares into one security middleware
+2021-08-19 23:03:46,548 INFO 16062 [egg:core] dump config after load, 3ms
+2021-08-19 23:03:46,558 INFO 16062 [egg-watcher:application] watcher start success
+2021-08-19 23:03:46,563 INFO 16062 [egg:core] dump config after ready, 3ms
+2021-08-19 23:07:50,933 INFO 16146 [egg:logger] init all loggers with options: {"dir":"/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/logs/nodejs-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nodejs-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-19 23:07:50,961 INFO 16146 [egg-multipart] stream mode enable
+2021-08-19 23:07:51,034 INFO 16146 [egg-static] starting static serve /public/ -> /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/app/public
+2021-08-19 23:07:51,035 INFO 16146 [egg-security] use csrf middleware
+2021-08-19 23:07:51,036 INFO 16146 [egg-security] use methodnoallow middleware
+2021-08-19 23:07:51,037 INFO 16146 [egg-security] use noopen middleware
+2021-08-19 23:07:51,037 INFO 16146 [egg-security] use nosniff middleware
+2021-08-19 23:07:51,038 INFO 16146 [egg-security] use xssProtection middleware
+2021-08-19 23:07:51,039 INFO 16146 [egg-security] use xframe middleware
+2021-08-19 23:07:51,039 INFO 16146 [egg-security] use dta middleware
+2021-08-19 23:07:51,039 INFO 16146 [egg-security] compose 7 middlewares into one security middleware
+2021-08-19 23:07:51,045 INFO 16146 [egg:core] dump config after load, 3ms
+2021-08-19 23:07:51,052 INFO 16146 [egg-watcher:application] watcher start success
+2021-08-19 23:07:51,057 INFO 16146 [egg:core] dump config after ready, 3ms
+2021-08-19 23:08:03,028 INFO 16163 [egg:logger] init all loggers with options: {"dir":"/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/logs/nodejs-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nodejs-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-19 23:08:03,053 INFO 16163 [egg-multipart] stream mode enable
+2021-08-19 23:08:03,100 INFO 16163 [egg-static] starting static serve /public/ -> /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/app/public
+2021-08-19 23:08:03,101 INFO 16163 [egg-security] use csrf middleware
+2021-08-19 23:08:03,102 INFO 16163 [egg-security] use methodnoallow middleware
+2021-08-19 23:08:03,102 INFO 16163 [egg-security] use noopen middleware
+2021-08-19 23:08:03,102 INFO 16163 [egg-security] use nosniff middleware
+2021-08-19 23:08:03,102 INFO 16163 [egg-security] use xssProtection middleware
+2021-08-19 23:08:03,103 INFO 16163 [egg-security] use xframe middleware
+2021-08-19 23:08:03,103 INFO 16163 [egg-security] use dta middleware
+2021-08-19 23:08:03,103 INFO 16163 [egg-security] compose 7 middlewares into one security middleware
+2021-08-19 23:08:03,108 INFO 16163 [egg:core] dump config after load, 3ms
+2021-08-19 23:08:03,115 INFO 16163 [egg-watcher:application] watcher start success
+2021-08-19 23:08:03,119 INFO 16163 [egg:core] dump config after ready, 3ms
+2021-08-19 23:10:28,394 INFO 17229 [egg:logger] init all loggers with options: {"dir":"/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/logs/nodejs-demo","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"nodejs-demo-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2021-08-19 23:10:28,417 INFO 17229 [egg-multipart] stream mode enable
+2021-08-19 23:10:28,462 INFO 17229 [egg-static] starting static serve /public/ -> /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/app/public
+2021-08-19 23:10:28,463 INFO 17229 [egg-security] use csrf middleware
+2021-08-19 23:10:28,463 INFO 17229 [egg-security] use methodnoallow middleware
+2021-08-19 23:10:28,464 INFO 17229 [egg-security] use noopen middleware
+2021-08-19 23:10:28,464 INFO 17229 [egg-security] use nosniff middleware
+2021-08-19 23:10:28,464 INFO 17229 [egg-security] use xssProtection middleware
+2021-08-19 23:10:28,465 INFO 17229 [egg-security] use xframe middleware
+2021-08-19 23:10:28,465 INFO 17229 [egg-security] use dta middleware
+2021-08-19 23:10:28,465 INFO 17229 [egg-security] compose 7 middlewares into one security middleware
+2021-08-19 23:10:28,470 INFO 17229 [egg:core] dump config after load, 3ms
+2021-08-19 23:10:28,477 INFO 17229 [egg-watcher:application] watcher start success
+2021-08-19 23:10:28,482 INFO 17229 [egg:core] dump config after ready, 3ms

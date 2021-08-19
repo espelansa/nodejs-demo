@@ -1,0 +1,15 @@
+2021-08-19 23:03:46,566 INFO 16061 [Timer] /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 19573435ms at 2021-08-20 04:30:00.001
+2021-08-19 23:03:46,566 INFO 16061 [Timer] /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 3373434ms at 2021-08-20 00:00:00.000
+2021-08-19 23:03:46,567 INFO 16061 [Timer] /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 3374434ms at 2021-08-20 00:00:01.001
+2021-08-19 23:03:46,463 INFO 16062 [egg-schedule]: register schedule /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-19 23:03:46,463 INFO 16062 [egg-schedule]: register schedule /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-19 23:03:46,463 INFO 16062 [egg-schedule]: register schedule /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-19 23:07:50,961 INFO 16146 [egg-schedule]: register schedule /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-19 23:07:50,961 INFO 16146 [egg-schedule]: register schedule /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-19 23:07:50,961 INFO 16146 [egg-schedule]: register schedule /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-19 23:08:03,052 INFO 16163 [egg-schedule]: register schedule /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-19 23:08:03,052 INFO 16163 [egg-schedule]: register schedule /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-19 23:08:03,052 INFO 16163 [egg-schedule]: register schedule /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-19 23:10:28,417 INFO 17229 [egg-schedule]: register schedule /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-19 23:10:28,417 INFO 17229 [egg-schedule]: register schedule /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-19 23:10:28,417 INFO 17229 [egg-schedule]: register schedule /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
