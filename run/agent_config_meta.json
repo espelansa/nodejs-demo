@@ -1,295 +1,309 @@
 {
+  "keys": "/Users/cherry/Documents/Rootant/nodejs-demo/config/config.default.js",
+  "view": {
+    "defaultViewEngine": "/Users/cherry/Documents/Rootant/nodejs-demo/config/config.default.js",
+    "mapping": {
+      ".tpl": "/Users/cherry/Documents/Rootant/nodejs-demo/config/config.default.js"
+    },
+    "root": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-view/config/config.default.js"
+  },
+  "news": {
+    "pageSize": "/Users/cherry/Documents/Rootant/nodejs-demo/config/config.default.js",
+    "serverUrl": "/Users/cherry/Documents/Rootant/nodejs-demo/config/config.default.js"
+  },
   "session": {
-    "maxAge": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-session/config/config.default.js",
-    "key": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-session/config/config.default.js",
-    "httpOnly": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-session/config/config.default.js",
-    "encrypt": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-session/config/config.default.js",
-    "logValue": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-session/config/config.default.js"
+    "maxAge": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-session/config/config.default.js",
+    "key": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-session/config/config.default.js",
+    "httpOnly": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-session/config/config.default.js",
+    "encrypt": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-session/config/config.default.js",
+    "logValue": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-session/config/config.default.js"
   },
   "security": {
-    "domainWhiteList": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-    "protocolWhiteList": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-    "defaultMiddleware": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
+    "domainWhiteList": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
     "csrf": {
-      "enable": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-      "type": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-      "ignoreJSON": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-      "useSession": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-      "cookieName": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-      "sessionName": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-      "headerName": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-      "bodyName": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-      "queryName": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-      "refererWhiteList": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+      "type": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+      "ignoreJSON": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+      "useSession": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+      "cookieName": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+      "sessionName": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+      "headerName": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+      "bodyName": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+      "queryName": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+      "refererWhiteList": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js"
     },
     "xframe": {
-      "enable": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js"
     },
     "hsts": {
-      "enable": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.local.js",
-      "maxAge": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-      "includeSubdomains": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js"
     },
     "dta": {
-      "enable": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js"
     },
     "methodnoallow": {
-      "enable": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js"
     },
     "noopen": {
-      "enable": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js"
     },
     "nosniff": {
-      "enable": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js"
     },
     "referrerPolicy": {
-      "enable": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js"
     },
     "xssProtection": {
-      "enable": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-      "value": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js"
     },
     "csp": {
-      "enable": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-      "policy": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js"
+      "enable": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-      "ipExceptionList": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js",
-      "checkAddress": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js"
+      "ipBlackList": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+      "ipExceptionList": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js"
     }
   },
   "helper": {
-    "shtml": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-security/config/config.default.js"
+    "shtml": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-security/config/config.default.js"
   },
   "jsonp": {
-    "limit": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-jsonp/config/config.default.js",
-    "callback": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-jsonp/config/config.default.js",
-    "csrf": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-jsonp/config/config.default.js"
+    "limit": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-jsonp/config/config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-onerror/config/config.default.js",
-    "appErrorFilter": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-onerror/config/config.default.js",
-    "templatePath": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-onerror/config/config.default.js"
+    "errorPageUrl": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-onerror/config/config.default.js"
   },
   "i18n": {
-    "defaultLocale": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-i18n/config/config.default.js",
-    "dirs": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-i18n/config/config.default.js",
-    "queryField": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-i18n/config/config.default.js",
-    "cookieField": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-i18n/config/config.default.js",
-    "cookieDomain": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-i18n/config/config.default.js",
-    "cookieMaxAge": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-i18n/config/config.default.js"
+    "defaultLocale": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-i18n/config/config.default.js",
+    "cookieDomain": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-i18n/config/config.default.js"
   },
   "watcher": {
-    "type": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-watcher/config/config.local.js",
+    "type": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-watcher/config/config.local.js",
     "eventSources": {
-      "default": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-watcher/config/config.default.js",
-      "development": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-watcher/config/config.default.js"
+      "default": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-watcher/config/config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-schedule/config/config.default.js",
-      "file": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-schedule/config/config.default.js"
+      "consoleLevel": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-schedule/config/config.default.js"
     }
   },
   "schedule": {
-    "directory": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-schedule/config/config.default.js"
+    "directory": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-schedule/config/config.default.js"
   },
   "multipart": {
-    "mode": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/config/config.default.js",
-    "autoFields": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/config/config.default.js",
-    "defaultCharset": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/config/config.default.js",
-    "fieldNameSize": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/config/config.default.js",
-    "fieldSize": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/config/config.default.js",
-    "fields": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/config/config.default.js",
-    "fileSize": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/config/config.default.js",
-    "files": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/config/config.default.js",
-    "fileExtensions": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/config/config.default.js",
-    "whitelist": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/config/config.default.js",
-    "allowArrayField": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/config/config.default.js",
-    "tmpdir": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/config/config.default.js",
+    "mode": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/config/config.default.js",
+    "allowArrayField": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/config/config.default.js",
     "cleanSchedule": {
-      "cron": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/config/config.default.js",
-      "disable": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/config/config.default.js"
+      "cron": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/config/config.default.js",
+      "disable": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/config/config.default.js"
     }
   },
   "development": {
-    "watchDirs": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-development/config/config.default.js",
-    "ignoreDirs": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-development/config/config.default.js",
-    "fastReady": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-development/config/config.default.js",
-    "reloadOnDebug": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-development/config/config.default.js",
-    "overrideDefault": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-development/config/config.default.js",
-    "overrideIgnore": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-development/config/config.default.js"
+    "watchDirs": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-development/config/config.default.js",
+    "overrideIgnore": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-development/config/config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/config/config.default.js",
-    "hourDelimiter": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/config/config.default.js",
-    "filesRotateBySize": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/config/config.default.js",
-    "maxFileSize": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/config/config.default.js",
-    "maxFiles": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/config/config.default.js",
-    "rotateDuration": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/config/config.default.js",
-    "maxDays": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/config/config.default.js"
+    "filesRotateByHour": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/config/config.default.js"
   },
   "static": {
-    "prefix": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-static/config/config.default.js",
-    "dir": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-static/config/config.default.js",
-    "dynamic": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-static/config/config.default.js",
-    "preload": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-static/config/config.default.js",
-    "buffer": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-static/config/config.default.js",
-    "maxFiles": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-static/config/config.default.js"
+    "prefix": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-static/config/config.default.js"
   },
-  "view": {
-    "root": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-view/config/config.default.js",
-    "cache": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-view/config/config.local.js",
-    "defaultExtension": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-view/config/config.default.js",
-    "defaultViewEngine": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-view/config/config.default.js",
-    "mapping": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-view/config/config.default.js"
+  "nunjucks": {
+    "autoescape": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-view-nunjucks/config/config.default.js",
+    "throwOnUndefined": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-view-nunjucks/config/config.default.js",
+    "trimBlocks": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-view-nunjucks/config/config.default.js",
+    "lstripBlocks": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-view-nunjucks/config/config.default.js",
+    "cache": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-view-nunjucks/config/config.local.js"
   },
-  "env": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-  "name": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-  "keys": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-  "cookies": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-  "proxy": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-  "maxIpsCount": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-  "maxProxyCount": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-  "protocolHeaders": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-  "ipHeaders": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-  "hostHeaders": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
+  "env": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+  "name": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+  "cookies": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+  "maxIpsCount": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+  "maxProxyCount": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
   "pkg": {
-    "name": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "version": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "description": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "main": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
+    "name": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "version": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "description": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "main": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
     "scripts": {
-      "koa": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "express": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "dev": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+      "koa": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "express": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "dev": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
     },
     "repository": {
-      "type": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "url": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+      "type": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "url": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
     },
-    "author": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "license": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
+    "author": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "license": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
     "bugs": {
-      "url": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+      "url": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
     },
-    "homepage": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
+    "homepage": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
     "dependencies": {
-      "body-parser": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "easy_sock": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "egg": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "express": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "express-handlebars": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "glob": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "handlebars": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "koa": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "koa-bodyparser": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "koa-ejs": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "koa-json": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "koa-mount": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "koa-router": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "koa-static": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "mysql2": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "protocol-buffers": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "sequelize": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+      "body-parser": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "easy_sock": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "egg": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "egg-view-nunjucks": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "express": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "express-handlebars": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "glob": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "handlebars": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "koa": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "koa-bodyparser": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "koa-ejs": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "koa-json": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "koa-mount": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "koa-router": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "koa-static": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "mysql2": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "protocol-buffers": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "sequelize": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
-      "egg-bin": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "nodemon": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+      "egg-bin": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "nodemon": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
     }
   },
-  "baseDir": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-  "HOME": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-  "rundir": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
+  "baseDir": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
   "dump": {
-    "ignore": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+    "ignore": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "notFound": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "sitefile": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "middlewares": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "httpClient": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+    "bodyparser": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
   },
   "notfound": {
-    "pageUrl": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+    "pageUrl": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+    "/favicon.ico": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
   },
   "bodyParser": {
-    "enable": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "encoding": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "formLimit": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "jsonLimit": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "textLimit": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "strict": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
+    "enable": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "jsonLimit": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "textLimit": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "strict": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
     "queryString": {
-      "arrayLimit": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "depth": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "parameterLimit": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+      "arrayLimit": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "depth": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
     },
-    "onerror": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+    "onerror": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
   },
   "logger": {
-    "dir": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "encoding": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "env": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "level": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "consoleLevel": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "disableConsoleAfterReady": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "outputJSON": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "buffer": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "appLogName": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "coreLogName": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "agentLogName": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "errorLogName": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
+    "dir": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "env": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "level": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
     "coreLogger": {
-      "consoleLevel": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.local.js"
+      "consoleLevel": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.local.js"
     },
-    "allowDebugAtProd": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+    "allowDebugAtProd": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "dnsCacheLookupInterval": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "dnsCacheMaxLength": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
+    "enableDNSCache": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
     "request": {
-      "timeout": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+      "timeout": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "freeSocketTimeout": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "maxSockets": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+      "keepAlive": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "freeSocketTimeout": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "maxSockets": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "maxFreeSockets": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+      "keepAlive": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
     }
   },
   "meta": {
-    "enable": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "logging": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+    "enable": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "logging": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
   },
-  "coreMiddleware": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-  "workerStartTimeout": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-  "serverTimeout": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
+  "coreMiddleware": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
   "cluster": {
     "listen": {
-      "path": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "port": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-      "hostname": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+      "path": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "port": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+      "hostname": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js",
-    "responseTimeout": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+    "maxWaitTime": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
   },
-  "onClientError": "/Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg/config/config.default.js"
+  "onClientError": "/Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg/config/config.default.js"
 }

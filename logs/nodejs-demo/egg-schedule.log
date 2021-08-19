@@ -13,3 +13,99 @@
 2021-08-19 23:10:28,417 INFO 17229 [egg-schedule]: register schedule /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
 2021-08-19 23:10:28,417 INFO 17229 [egg-schedule]: register schedule /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
 2021-08-19 23:10:28,417 INFO 17229 [egg-schedule]: register schedule /Users/Evyn/Documents/Torry/Rootant/nodejs-geektime-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 01:41:52,338 INFO 3146 [Timer] /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 10087666ms at 2021-08-20 04:30:00.004
+2021-08-20 01:41:52,339 INFO 3146 [Timer] /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 80287662ms at 2021-08-21 00:00:00.001
+2021-08-20 01:41:52,339 INFO 3146 [Timer] /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 80288661ms at 2021-08-21 00:00:01.000
+2021-08-20 01:41:52,171 INFO 3147 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 01:41:52,171 INFO 3147 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 01:41:52,171 INFO 3147 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 01:55:36,400 INFO 3366 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 01:55:36,400 INFO 3366 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 01:55:36,400 INFO 3366 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 01:55:39,882 INFO 3378 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 01:55:39,882 INFO 3378 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 01:55:39,882 INFO 3378 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 01:55:55,275 INFO 3403 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 01:55:55,276 INFO 3403 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 01:55:55,276 INFO 3403 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:01:14,427 INFO 3553 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:01:14,427 INFO 3553 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:01:14,427 INFO 3553 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:01:35,775 INFO 3572 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:01:35,775 INFO 3572 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:01:35,775 INFO 3572 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:01:58,728 INFO 3602 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:01:58,728 INFO 3602 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:01:58,728 INFO 3602 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:12:14,943 INFO 3698 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:12:14,943 INFO 3698 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:12:14,943 INFO 3698 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:13:36,986 INFO 3719 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:13:36,986 INFO 3719 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:13:36,986 INFO 3719 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:14:02,600 INFO 3738 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:14:02,600 INFO 3738 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:14:02,601 INFO 3738 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:14:23,876 INFO 3750 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:14:23,877 INFO 3750 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:14:23,877 INFO 3750 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:16:03,623 INFO 3777 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:16:03,623 INFO 3777 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:16:03,623 INFO 3777 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:18:21,124 INFO 3820 [Timer] /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 7898879ms at 2021-08-20 04:30:00.003
+2021-08-20 02:18:21,125 INFO 3820 [Timer] /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 78098876ms at 2021-08-21 00:00:00.001
+2021-08-20 02:18:21,125 INFO 3820 [Timer] /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 78099875ms at 2021-08-21 00:00:01.000
+2021-08-20 02:18:21,023 INFO 3821 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:18:21,023 INFO 3821 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:18:21,023 INFO 3821 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:19:51,414 INFO 3841 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:19:51,414 INFO 3841 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:19:51,414 INFO 3841 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:22:28,572 INFO 3877 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:22:28,572 INFO 3877 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:22:28,572 INFO 3877 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:22:53,663 INFO 3892 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:22:53,663 INFO 3892 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:22:53,663 INFO 3892 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:24:07,578 INFO 3913 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:24:07,578 INFO 3913 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:24:07,578 INFO 3913 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:24:41,181 INFO 3941 [Timer] /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 7518822ms at 2021-08-20 04:30:00.003
+2021-08-20 02:24:41,182 INFO 3941 [Timer] /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 77718819ms at 2021-08-21 00:00:00.001
+2021-08-20 02:24:41,182 INFO 3941 [Timer] /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 77719818ms at 2021-08-21 00:00:01.000
+2021-08-20 02:24:41,079 INFO 3945 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:24:41,079 INFO 3945 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:24:41,079 INFO 3945 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:31:03,645 INFO 4437 [Timer] /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 7136358ms at 2021-08-20 04:30:00.003
+2021-08-20 02:31:03,645 INFO 4437 [Timer] /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 77336355ms at 2021-08-21 00:00:00.000
+2021-08-20 02:31:03,646 INFO 4437 [Timer] /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 77337355ms at 2021-08-21 00:00:01.001
+2021-08-20 02:31:03,531 INFO 4438 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:31:03,532 INFO 4438 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:31:03,532 INFO 4438 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:33:05,935 INFO 4489 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:33:05,935 INFO 4489 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:33:05,935 INFO 4489 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:33:36,768 INFO 4505 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:33:36,768 INFO 4505 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:33:36,768 INFO 4505 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:35:50,462 INFO 4536 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:35:50,462 INFO 4536 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:35:50,462 INFO 4536 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:36:55,722 INFO 4567 [Timer] /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js next time will execute after 6784281ms at 2021-08-20 04:30:00.003
+2021-08-20 02:36:55,723 INFO 4567 [Timer] /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 76984277ms at 2021-08-21 00:00:00.000
+2021-08-20 02:36:55,724 INFO 4567 [Timer] /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 76985277ms at 2021-08-21 00:00:01.001
+2021-08-20 02:36:55,613 INFO 4571 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:36:55,613 INFO 4571 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:36:55,613 INFO 4571 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:37:48,732 INFO 4585 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:37:48,732 INFO 4585 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:37:48,732 INFO 4585 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:40:33,236 INFO 4634 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:40:33,236 INFO 4634 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:40:33,236 INFO 4634 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:40:49,915 INFO 4648 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:40:49,915 INFO 4648 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:40:49,915 INFO 4648 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2021-08-20 02:40:57,929 INFO 4656 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-multipart/app/schedule/clean_tmpdir.js
+2021-08-20 02:40:57,929 INFO 4656 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/clean_log.js
+2021-08-20 02:40:57,929 INFO 4656 [egg-schedule]: register schedule /Users/cherry/Documents/Rootant/nodejs-demo/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
