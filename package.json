@@ -24,6 +24,7 @@
     "express": "^4.17.1",
     "express-handlebars": "^5.3.3",
     "glob": "^7.1.6",
+    "handlebars": "^4.7.7",
     "koa": "^2.13.1",
     "koa-bodyparser": "^4.3.0",
     "koa-ejs": "^4.3.0",

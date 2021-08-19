@@ -28,7 +28,7 @@ app.context.user = 'Esc';
 // app.use(async ctx => (ctx.body = { msg: 'Hello world' }));
 
 render(app, {
-  root: path.join(__dirname, 'views'),
+  root: path.join(__dirname, '/views/koa'),
   layout: 'layout',
   viewExt: 'html',
   cache: false,

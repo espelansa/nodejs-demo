@@ -1,7 +1,7 @@
 const Sequelize = require('sequelize');
 const database = require('../config/database');
 
-const Gig = database.define('gig', {
+const Gig = database.define('gigs', {
   title: {
     type: Sequelize.STRING
   },
@@ -17,6 +17,8 @@ const Gig = database.define('gig', {
   contact_email: {
     type: Sequelize.STRING
   },
+}, {
+  freezeTableName: true
 })
 
 module.exports = Gig;
