@@ -6,7 +6,9 @@
   "scripts": {
     "koa": "nodemon koa.js",
     "express": "nodemon express.js",
-    "dev": "egg-bin dev"
+    "dev": "egg-bin dev",
+    "test": "egg-bin test",
+    "cov": "egg-bin cov"
   },
   "repository": {
     "type": "git",
@@ -41,6 +43,7 @@
   },
   "devDependencies": {
     "egg-bin": "^4.16.4",
+    "egg-mock": "^3.26.0",
     "nodemon": "^2.0.12"
   }
 }
